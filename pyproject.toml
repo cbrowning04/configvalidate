@@ -1,7 +1,7 @@
 [project]
 name = "configvalidate"
 version = "0.1.0"
-description = "configvalidate allows for easu config validation within your penvironment"
+description = "configvalidate allows for easy config validation within your python environment"
 readme = "README.md"
 authors = [
   {name = "Charlie Browning", email = "charlbrowning@googlemail.com"}
